@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 영산대학교 양산캠퍼스
+        university: 품질경영공학과, 컴퓨터공학과 복수전공
+        time: 2017.03 - 2023.02
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
