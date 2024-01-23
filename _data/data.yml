@@ -33,25 +33,25 @@ sidebar:
     languages:
       title: 
       info:
-        - idiom: 
-          level: 
+        - idiom: English
+          level: Native
 
-        - idiom: 
-          level: 
+        - idiom: French
+          level: Professional
 
-        - idiom:
-          level: 
+        - idiom: Spanish
+          level: Professional
 
     interests:
-      title: 
+      title: Interests
       info:
-        - item: 
+        - item: Climbing
           link:
 
-        - item: 
+        - item: Snowboarding
           link:
 
-        - item:
+        - item: Cooking
           link:
 
 career-profile:
@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 영산대학교 양산캠퍼스
-        university: 품질경영공학과, 컴퓨터공학과 복수전공
-        time: 2017.03 - 2023.02
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: 코드스테이츠 블록체인 부트캠프 7기
-        university: Javascript, nodeJS, tailwindCss, html
-        time: 2022.09 - 2023.02
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,7 +88,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-
 experiences:
     title: Experiences
     info:
@@ -129,7 +128,6 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-
 certifications:
       title: Certifications
       list:
@@ -149,7 +147,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
@@ -170,7 +167,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
@@ -181,23 +177,18 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: OSS Contributions
     intro: >
@@ -208,15 +199,12 @@ oss:
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -228,38 +216,28 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Python & Django
         level: 98%
-
       - name: Javascript & jQuery
         level: 98%
-
       - name: Angular
         level: 98%
-
       - name: HTML5 & CSS
         level: 95%
-
       - name: Ruby on Rails
         level: 85%
-
       - name: Sketch & Photoshop
         level: 60%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
