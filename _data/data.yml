@@ -33,25 +33,25 @@ sidebar:
     languages:
       title: 
       info:
-        - idiom: English
-          level: Native
+        - idiom: 
+          level: 
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom:
+          level: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item:
           link:
 
 career-profile:
@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 영산대학교 양산캠퍼스
+        university: 품질경영공학과, 컴퓨터공학과 복수전공
+        time: 2017.03 - 2023.02
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 코드스테이츠 블록체인 부트캠프 7기
+        university: Javascript, nodeJS, tailwindCss, html
+        time: 2022.09 - 2023.02
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,6 +88,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
 
 experiences:
     title: Experiences
