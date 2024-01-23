@@ -15,12 +15,6 @@ sidebar:
     # Sidebar links
     email: baekhun2463@gmail.com
     github: baekhun2463
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
@@ -36,7 +30,7 @@ education:
     title: Education
     info:
         - degree: 코드스테이츠 블록체인 부트캠프 7기
-        university: JavaScript, nodeJS, tailwindCss, html
+        university: JavaScript, nodeJS
         time: 2022.09 - 2023.02
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
