@@ -33,25 +33,25 @@ sidebar:
     languages:
       title: 
       info:
-        - idiom: English
-          level: Native
+        - idiom: 
+          level:
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level:
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
