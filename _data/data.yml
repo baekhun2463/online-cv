@@ -131,11 +131,11 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
+        - name: AWS Certified Solutions Architect - Associate
+          start: 
+          end: 2023.08
+          organization: 
+          credentialid: 
           credentialurl: www.google.com
           credentialname: Google
           details: |
