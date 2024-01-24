@@ -66,7 +66,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 영산대학교 양산캠퍼스
+      - degree: 영산대학교 양산캠퍼스 졸업
         university: 품질경영공학과, 컴퓨터공학과(복수전공)
         time: 2017.03 - 2024.02
         details: |
@@ -77,7 +77,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: 코드스테이츠 블록체인 부트캠프 7기
+      - degree: 코드스테이츠 블록체인 부트캠프 7기 수료
         university: Javascript, NodeJS, tailwindCss, html
         time: 2022.09 - 2023.02
         details: |
@@ -151,22 +151,22 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        # - name: Git learning
+        #   start: 2019
+        #   end:
+        #   organization: Microsoft
+        #   credentialid: 111-222
+        #   credentialurl: www.github.com
+        #   credentialname: Github
+        #   details: |
+        #     Older certification. Lorem ipsum dolor sit amet, consectetur
+        #     adipiscing elit.
+        #     Nullam eget orci purus. Nullam ultrices neque nibh.
+        #     Aenean fermentum, felis vulputate suscipit accumsan,
+        #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+        #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+        #     Praesent venenatis erat non augue suscipit consectetur.
 projects:
     title: Projects
     intro: >
