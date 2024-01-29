@@ -143,25 +143,25 @@ certifications:
 projects:
     title: Projects
     intro: >
-      # You can list your side projects in this
-      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # You can list your side projects in this
+    # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: 기본적인 로그인과 회원가입, 쇼핑몰, 게시판
         link: "https://baekhunstudy.notion.site/30a75b9f394d4374868ad74e789d9eb1?pvs=4"
         tagline: "김영한님의 인프런 자바 스프링 로드맵 강의를 시청 후 만든 프로젝트"
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 코드스테이츠 부트캠프 파이널 프로젝트 Luxury Guarantee
+        link: "https://baekhunstudy.notion.site/5e64b95455864b32908f3d74c8cee15d?pvs=4"
+        tagline: "4명이 팀을 이루어 한달간 진행한 프로젝트. 저는 프론트엔드 파트를 맡았습니다."
+      - title: 코드스테이츠 부트캠프 두번째 프로젝트 Post Melon
+        link: "https://baekhunstudy.notion.site/2-c8f2627dd12d4b5eafc2db1e162b9b5d?pvs=4"
+        tagline: "4명이 팀을 이루어 2주간 진행한 프로젝트. 저는 프론트엔드 파트를 맡았습니다."
+      - title: 코드스테이츠 부트캠프 첫번째 프로젝트 OpenSea 클론코딩
+        link: "https://baekhunstudy.notion.site/1-OpenSea-af15f83de5ae474dbe7c962ee088c641?pvs=4"
+        tagline: "5명이 팀을 이루어 일주일간 진행한 프로젝트. 저는 프론트엔드 파트를 맡았습니다."
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 oss:
     title: OSS Contributions
     intro: >
