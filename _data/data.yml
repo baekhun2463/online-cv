@@ -143,13 +143,13 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      # You can list your side projects in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 기본적인 로그인과 회원가입, 쇼핑몰, 게시판
+        link: "https://baekhunstudy.notion.site/30a75b9f394d4374868ad74e789d9eb1?pvs=4"
+        tagline: "김영한님의 인프런 자바 스프링 로드맵 강의를 시청 후 만든 프로젝트"
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
