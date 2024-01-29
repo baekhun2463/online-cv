@@ -57,12 +57,8 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      안녕하세요. 저는 신입 백엔드 개발자를 희망하는 백지훈입니다.
+      
 education:
     title: Education
     info:
@@ -78,7 +74,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: 코드스테이츠 블록체인 부트캠프 7기 수료
-        university: Javascript, NodeJS, tailwindCss, html
+        university: Javascript, NodeJS, tailwindCSS, html
         time: 2022.09 - 2023.02
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -89,7 +85,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Overall Experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
