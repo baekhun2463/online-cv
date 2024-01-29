@@ -92,15 +92,15 @@ experiences:
         company: 품질경영공학과, 컴퓨터공학과(복수전공)
         details: |
           개발자가 되고 싶단 생각을 하고 복수전공을 했음.
-            # - Bullet point
-            # - Bullet point
+        # - Bullet point
+        # - Bullet point
       - role: 코드스테이츠 블록체인 부트캠프 7기 수료
         time: 2022.09 - 2023.02
         company: Javascript, NodeJS, tailwindCSS, html
         details: |
           비트코인에 관심이 생겨서 해본 부트캠프 
-            # - Bullet point
-            # - Bullet point
+        # - Bullet point
+        # - Bullet point
       # - role: UI Developer
       #   time: 2012 - 2014
       #   company: Amazon, London
