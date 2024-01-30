@@ -157,9 +157,6 @@ projects:
       - title: 코드스테이츠 부트캠프 첫번째 프로젝트 OpenSea 클론코딩
         link: "https://baekhunstudy.notion.site/1-OpenSea-af15f83de5ae474dbe7c962ee088c641?pvs=4"
         tagline: "저는 프론트엔드 역할 맡고 일주일간 진행되었습니다."
-      - title: 
-        link: "#"
-        tagline: ""
 oss:
     title: OSS Contributions
     intro: >
