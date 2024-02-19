@@ -117,7 +117,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: AWS Certified Solutions Architect - Associate
+        - name: AWS Certified Solutions Architect - Associate 자격증 취득
           start: 2023.07
           end: 2023.08
           organization: 
@@ -201,11 +201,11 @@ skills:
         level: 93%
       - name: JPA
         level: 90%
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Git & GitHub
+        level: 85%
       - name: Javascript & NodeJS
         level: 75%
-      - name: Git & GitHub
+      - name: AWS
         level: 65%
       - name: HTML5 & CSS
         level: 50%
