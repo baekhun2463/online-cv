@@ -57,7 +57,8 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      안녕하세요. 저는 신입 백엔드 개발자를 희망하는 백지훈입니다.
+      안녕하세요. 저는 신입 백엔드 개발자 백지훈 입니다.
+      계속 발전하는 가성비 좋은 개발자가 되겠습니다.
       
 education:
     title: Education
@@ -91,25 +92,25 @@ experiences:
         time: 2017.03 - 2024.02
         company: 품질경영공학과, 컴퓨터공학과(복수전공)
         details: |
-          개발자가 되고 싶단 생각을 하고 복수전공을 했음.
+          개발자가 되고 싶단 생각을 하고 복수전공을 했습니다.
         # - Bullet point
         # - Bullet point
       - role: 코드스테이츠 블록체인 부트캠프 7기 수료
         time: 2022.09 - 2023.02
         company: Javascript, NodeJS, tailwindCSS, html
         details: |
-          비트코인에 관심이 생겨서 해본 부트캠프 
+          4학년이 되기전 휴학 후 진행한 부트캠프
         # - Bullet point
         # - Bullet point
-      # - role: UI Developer
-      #   time: 2012 - 2014
-      #   company: Amazon, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
+      - role: 공군 병장 전역
+        time: 2017.08 - 2019.7
+        company: 
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
       #       - Bullet point
       #       - Bullet point
 certifications:
