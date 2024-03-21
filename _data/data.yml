@@ -157,6 +157,9 @@ projects:
     intro: >
       
     assignments:
+      - title: SNS 프로젝트
+        link: "https://baekhunstudy.notion.site/SNS-9638de26c7ce48d69c7c5716ee53affc?pvs=4"
+        tagline: "CRUD 가능한 SNS 프로젝트. 기능구현보다 AWS에 초점이 맞춰진 프로젝트"
       - title: 기본적인 로그인과 회원가입, 쇼핑몰, 게시판
         link: "https://baekhunstudy.notion.site/30a75b9f394d4374868ad74e789d9eb1?pvs=4"
         tagline: "김영한님의 인프런 자바 스프링 로드맵 강의를 시청 후 만든 프로젝트"
