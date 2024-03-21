@@ -214,12 +214,12 @@ skills:
         level: 93%
       - name: JPA
         level: 90%
+      - name: AWS
+        level: 88%
       - name: Git & GitHub
         level: 85%
       - name: Javascript & NodeJS
         level: 75%
-      - name: AWS
-        level: 65%
       - name: HTML5 & CSS
         level: 50%
 footer: >
