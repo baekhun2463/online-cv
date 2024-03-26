@@ -78,24 +78,16 @@ education:
         university: 품질경영공학과, 컴퓨터공학과(복수전공)
         time: 2017.03 - 2024.02
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          개발자가 되고 싶단 생각을 하고 복수전공을 했습니다.
+            # - Bullet point
+            # - Bullet point
       - degree: 코드스테이츠 블록체인 부트캠프 7기 수료
         university: Javascript, NodeJS, tailwindCSS, html
         time: 2022.09 - 2023.02
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          4학년이 되기전 휴학 후 진행한 부트캠프
+            # - Bullet point
+            # - Bullet point
 experiences:
     title: Overall Experiences
     info:
