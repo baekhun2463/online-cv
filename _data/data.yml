@@ -142,23 +142,18 @@ certifications:
         #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
         #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
         #     Praesent venenatis erat non augue suscipit consectetur.
+
 projects:
-    title: Personal Projects
+    title: Projects
     intro: >
       
     assignments:
       - title: SNS 프로젝트
         link: "https://baekhunstudy.notion.site/SNS-9638de26c7ce48d69c7c5716ee53affc?pvs=4"
-        tagline: "CRUD 가능한 SNS 프로젝트. 기능구현보다 AWS에 초점이 맞춰진 프로젝트"
+        tagline: "CRUD 가능한 SNS 프로젝트. 기능구현보다 AWS에 초점이 맞춰진 개인 프로젝트"
       - title: 기본적인 로그인과 회원가입, 쇼핑몰, 게시판
         link: "https://baekhunstudy.notion.site/30a75b9f394d4374868ad74e789d9eb1?pvs=4"
-        tagline: "김영한님의 인프런 자바 스프링 로드맵 강의를 시청 후 만든 프로젝트"
-
-projects:
-    title: Team Projects
-    intro: >
-      
-    assignments:
+        tagline: "김영한님의 인프런 자바 스프링 로드맵 강의를 시청 후 만든 개인 프로젝트"
       - title: 코드스테이츠 부트캠프 파이널 프로젝트 Luxury Guarantee
         link: "https://baekhunstudy.notion.site/5e64b95455864b32908f3d74c8cee15d?pvs=4"
         tagline: "저는 프론트엔드 역할을 맡고 한달간 진행되었습니다."
